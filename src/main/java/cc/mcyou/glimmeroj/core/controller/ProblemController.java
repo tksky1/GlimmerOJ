@@ -6,7 +6,6 @@ import cc.mcyou.glimmeroj.core.data.JudgeData;
 import cc.mcyou.glimmeroj.core.data.ProblemLite;
 import cc.mcyou.glimmeroj.core.data.ProblemNoData;
 import cc.mcyou.glimmeroj.core.databaseEntity.ProblemEntity;
-import cc.mcyou.glimmeroj.core.databaseEntity.UserEntity;
 import cc.mcyou.glimmeroj.core.service.Initiator;
 import com.alibaba.fastjson.JSON;
 import org.springframework.beans.factory.annotation.Autowired;

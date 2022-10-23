@@ -3,8 +3,6 @@ package cc.mcyou.glimmeroj.core.data;
 import cc.mcyou.glimmeroj.core.databaseEntity.ProblemEntity;
 import lombok.*;
 
-import javax.persistence.*;
-
 @Data
 @AllArgsConstructor
 public class ProblemNoData {
